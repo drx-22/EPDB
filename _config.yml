@@ -45,7 +45,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 include: 
-  - node_modules/
+  - node-modules/
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
