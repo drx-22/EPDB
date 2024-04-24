@@ -22,12 +22,10 @@ domain: drx-22.github.io       # if you want to force HTTPS, specify the domain 
 url: https://drx-22.github.io/EPDB/  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /EPDB      # place folder name if the site is served in a subfolder
 
-title: Your awesome title
-email: your-email@example.com
+title: OSI
+email: doriangbg22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  EprenDB site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
